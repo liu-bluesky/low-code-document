@@ -37,7 +37,7 @@ module.exports = {
     description: '进一步降低前段工作量 变向提高收入比',
     home:true,
     themeConfig: {
-      repo:"https://gitee.com/blueskyliu/low-code-document",
+      repo:"",
       logo: 'https://cn.vuejs.org/images/logo.svg',
       navbar: [
         // NavbarItem
@@ -52,12 +52,16 @@ module.exports = {
         },
         {
           text: '下载',
-          link: 'http://ravmytfrf.hn-bkt.clouddn.com/vue%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8-%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20Setup%200.0.4.zip',
+          link: 'http://ravmytfrf.hn-bkt.clouddn.com/vue%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8-%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20Setup%200.0.5.exe',
       },
         {
             text: 'Issues',
-            link: 'https://gitee.com/blueskyliu/low-code-document/issues',
+            link: 'https://gitee.com/blueskyliu/low-code-document-issues/issues',
         },
+        {
+          text: '更新日志',
+          link: '/page/project/log'
+      },
       ],
       // sidebar: [
    
