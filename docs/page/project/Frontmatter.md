@@ -1,16 +1,3 @@
-## 第一步：配置模板
-### 1.鼠标悬浮头像 点击个人中心
-![在这里插入图片描述](https://img-blog.csdnimg.cn/365f10a003404d198ca2144408fcc0f1.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
-### 2.选择-项目模板设置
-1. 点击打开目录
-![在这里插入图片描述](https://img-blog.csdnimg.cn/bde2c841648c4c1eaa0b7f283209456c.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
-### 3.打开目录选择压缩包里面的模板
- 1.  点击选择文件夹即可 
-2.  点击保存目录
-3. 保存后，点击返回上一级
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/4d351d99f86b48cb96e2f352c4be89bc.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
-
 
 ## 第二步：创建项目
 
