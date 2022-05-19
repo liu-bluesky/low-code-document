@@ -52,7 +52,7 @@ module.exports = {
         },
         {
           text: '下载',
-          link: 'http://ravmytfrf.hn-bkt.clouddn.com/vue%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8-%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20Setup%200.0.6.zip',
+          link: 'http://ravmytfrf.hn-bkt.clouddn.com/vue%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8-%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20Setup%200.0.7.zip',
       },
         {
             text: 'Issues',
