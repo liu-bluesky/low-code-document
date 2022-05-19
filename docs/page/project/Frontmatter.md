@@ -4,20 +4,20 @@
 ### 1.点击创建项目 
 > 输入完配置项后确认 项目名称 模板名称 备注
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/a8a2d469ed354e3fa342aadf6a4b17a9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](./a8a2d469ed354e3fa342aadf6a4b17a9.png)
 ### 2.配置项目 
 > 菜单模块是空数据 需要点击编辑按钮 进行配置项目菜单以及路由
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/e5b6f6f81aa14719af4ef30ceeb2b562.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](./e5b6f6f81aa14719af4ef30ceeb2b562.png)
 ### 3.点击创建菜单
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8230849282464a1e8d128073b1008a5e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](./8230849282464a1e8d128073b1008a5e.png)
 ### 4.点击绿色的编辑项目按钮
 
 ## 第三步：编辑项目页面布局
 
 ### 1.选择菜单  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/33960154737b409eaed8d9980242b7c4.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](./33960154737b409eaed8d9980242b7c4.png)
 ### 2.编辑项目
 >注意事项
 
@@ -28,5 +28,5 @@
 5. 绑定变量 1.在页面数据先创建变量才可以选择变量 默认都是v-model 数据双向绑定  
 ### 3.容器/组件
 1. 双击可以查看 容器或者组件所有 属性，激活是边框是实线选中状态
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7565e817c7344ddeba83cece015fd2f5.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQkxVRVNLWUhPU1Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](./7565e817c7344ddeba83cece015fd2f5.png)
 
