@@ -32,7 +32,7 @@ module.exports = {
     ],
   ],
     lang: 'zh-CN',
-    base:"/low-code-document/",
+    base:"",//  /low-code-document/
     title: 'vue代码生成器-后台管理',
     description: '进一步降低前段工作量 变向提高收入比',
     home:true,
